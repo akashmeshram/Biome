@@ -1,2 +1,2 @@
 # Biome
-A program generates infinite artificial terrain
+A program to generate infinite artificial terrain
